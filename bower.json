@@ -1,0 +1,21 @@
+{
+  "name": "samundra",
+  "description": "",
+  "main": "",
+  "authors": [
+    "samundrak <samundrak@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue-router": "^2.0.0",
+    "vue": "v2.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+resources/
+node_modules/
+bower_components/
+app/
+bootstrap/
+config/
+public/
+lang/
+views/
