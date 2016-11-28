@@ -1,6 +1,6 @@
-# Laravel, VueJS Hot Reload, Hot Module Replacement And Eslint (Airbnb)
+# Laravel, VueJS, Webpack Hot Reload, Hot Module Replacement And Eslint (Airbnb)
 
-This is an example project  of using hot reload, hot module replacement on laravel using browser sync
+This is an example project  of using webpack hot reload, hot module replacement on laravel using browser sync
 and  javascript, vuejs and eslint warnings and error will be seen on your browser screen, node console and browser
 console at same time. 
 
